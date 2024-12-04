@@ -17,7 +17,8 @@ Before running the project, ensure you have the following installed:
   ```bash
   npm -v
 
-  ## *📦 Installation and ▶️ Running the Application *
+
+## *📦 Installation and ▶️ Running the Application *
 
 Follow these steps to install dependencies and start the application:
 

@@ -27,7 +27,6 @@ Clone this repository to your local machine using the following command:
 ```bash
 git clone https://github.com/ankitisgood/task-management.git
 
-
 ### **Step 2: Navigate to the Project Directory**
 Move into the project directory with:
 ```bash

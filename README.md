@@ -1,36 +1,36 @@
-# **Task Management**
+# Task Management Application
 
-A React-based Task Management application to help you organize and manage your tasks efficiently.
-
-## 🚀 Getting Started
-
-Follow the steps below to set up and run the project on your local machine.
+A simple and efficient task management application built using React.
 
 ---
 
-## 🛠 Prerequisites
+## How to Run the Application
 
-Before running the project, ensure you have the following installed:
+### Prerequisites
 
-- **Node.js**: [Download and install Node.js](https://nodejs.org/) (LTS version recommended).
-- **npm** or **yarn**: Installed with Node.js. Check with:
-  ```bash
-  npm -v
+Ensure you have the following installed:
+- **Node.js** (LTS version recommended)
+- **npm** or **yarn** (comes with Node.js)
+- **Git** (to clone the repository)
 
+### Steps to Run
 
-## 📦 Installation and ▶️ Running the Application 
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ankitisgood/task-management.git
 
-Follow these steps to install dependencies and start the application:
+2. Navigate to the project directory:
+   ```bash
+   cd task-management
 
-### **Step 1: Clone the Repository**
-Clone this repository to your local machine using the following command:
-```bash
-git clone https://github.com/ankitisgood/task-management.git
+3. Install the dependencies:
+   ```bash
+   npm install
 
----
+4. Start the development server:
+    ```bash
+    npm start or npm run dev
 
-### **Step 2: Navigate to the Project Directory**
-Move into the project directory with:
-```bash
-cd task-management
-
+5. Open your browser and navigate to:
+   ```bash
+   http://localhost:3000 0r 5173

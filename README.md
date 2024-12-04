@@ -18,7 +18,7 @@ Before running the project, ensure you have the following installed:
   npm -v
 
 
-## *📦 Installation and ▶️ Running the Application *
+## 📦 Installation and ▶️ Running the Application 
 
 Follow these steps to install dependencies and start the application:
 
@@ -26,4 +26,9 @@ Follow these steps to install dependencies and start the application:
 Clone this repository to your local machine using the following command:
 ```bash
 git clone https://github.com/ankitisgood/task-management.git
+
+### **Step 2: Navigate to the Project Directory**
+Move into the project directory with:
+```bash
+cd task-management
 
